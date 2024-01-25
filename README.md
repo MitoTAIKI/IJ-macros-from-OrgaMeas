@@ -1,1 +1,1 @@
-# Image-J-macros-for-OrgaMeas
+# Image J macros from OrgaMeas
